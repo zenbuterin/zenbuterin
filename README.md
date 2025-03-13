@@ -24,13 +24,10 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 ## 🐸 Thanks for coming
-![Shiba GIF]([https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif](https://tenor.com/en-GB/view/peppe-gif-16982270732562077650))  
-![SpongeBob GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)  
+![Spongebob GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)  
+![pepe GIF](https://media1.tenor.com/m/660lQV3gF9IAAAAC/peppe.gif)
 
-<!-- Hidden Easter Egg -->
-<img src="https://media.tenor.com/q6SxqzO4sJkAAAAC/pepe-peepo.gif" width="1" height="1" alt="Nothing to see here..." />
 
 ---
 ☕ Buy me a coffee? Nah, just fork my repo and contribute. 😎
-
 
