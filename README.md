@@ -24,7 +24,6 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zenbuterin&show_icons=true&theme=radical)
 
 ## 🐸 Thanks for coming
-![Spongebob GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)  
 ![pepe GIF](https://media1.tenor.com/m/660lQV3gF9IAAAAC/peppe.gif)
 
 
