@@ -21,7 +21,7 @@
 💡 Planning to create a blockchain project from scratch (soon™)  
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zenbuterin&show_icons=true&theme=radical)
 
 ## 🐶 Shiba & Pepe Approved
 ![Shiba GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)  
