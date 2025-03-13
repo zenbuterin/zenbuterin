@@ -21,10 +21,14 @@
 💡 Planning to create a blockchain project from scratch (soon™)  
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zenbuterin&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
-## 🐶 Shiba & Pepe Approved
+## 🐸 Pepe hacker
 ![Shiba GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)  
+![SpongeBob GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)  
+
+<!-- Hidden Easter Egg -->
+<img src="https://media.tenor.com/q6SxqzO4sJkAAAAC/pepe-peepo.gif" width="1" height="1" alt="Nothing to see here..." />
 
 ---
 ☕ Buy me a coffee? Nah, just fork my repo and contribute. 😎
