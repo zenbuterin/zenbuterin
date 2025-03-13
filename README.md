@@ -23,8 +23,8 @@
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
-## 🐸 Pepe hacker
-![Shiba GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)  
+## 🐸 Thanks for coming
+![Shiba GIF]([https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif](https://tenor.com/en-GB/view/peppe-gif-16982270732562077650))  
 ![SpongeBob GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)  
 
 <!-- Hidden Easter Egg -->
