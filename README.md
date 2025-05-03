@@ -4,7 +4,8 @@
 
 👨‍💻 Smart contract tinkerer | DApp builder | Web3 enjoyer  
 🔗 On-chain by day, off-chain by night  
-🧠 There is nothing more exciting than being smart.  
+🧠 There is nothing more exciting than being smart
+🌐 Interested at distributed system, decentralized and crypto
 
 ## 🛠 Tech Stack
 
