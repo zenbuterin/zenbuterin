@@ -1,7 +1,5 @@
 # Hey there, fren! 🫡
 
-**"Modern problems require modern solutions."** — Me, probably 👀
-
 ## 🚀 About Me
 
 👨‍💻 Smart contract tinkerer | DApp builder | Web3 enjoyer  
