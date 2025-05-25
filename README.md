@@ -14,7 +14,7 @@
 
 ## 🏗 Ongoing Projects
 
-📌 Building DApps, one block at a time...  
+📌 Website for merge web3 utility in one place
 💡 Planning to create a blockchain project from scratch (soon™)  
 
 ## 📊 GitHub Stats
