@@ -8,9 +8,9 @@
 ## 🛠 Tech Stack
 
 🚀 **Blockchain & Smart Contracts:** Solidity (Ethereum), Rust, Anchor (Solana)  
-📜 **Backend & APIs:** Actix Web, Express.js, GraphQL(on going)  
+📜 **Backend & APIs:** Actix Web, Express.js
 💻 **Frontend:** Next.js, JavaScript, TypeScript, React, TailwindCSS  
-🐳 **DevOps & Infra:** Docker, Hardhat, Foundry, IPFS  
+🐳 **DevOps & Infra:** Docker, Hardhat, Foundry  
 
 ## 🏗 Ongoing Projects
 
