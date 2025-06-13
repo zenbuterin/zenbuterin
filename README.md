@@ -1,4 +1,4 @@
-# Hey there, fren! 🫡
+# Hey there!
 
 ## 🚀 About Me
 
