@@ -1,4 +1,7 @@
-# Hey there🖐️, I'm Guslizen Effayed 
+<div align="center">
+  <h1>Halo, I'm Guslizen Effayed 👋</h1>
+  <p>Blockchain & Web3 Enthusiast</p>
+</div>
 
 ### 🚀 About Me
 
