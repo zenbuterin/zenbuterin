@@ -8,7 +8,7 @@
 👨‍💻 I am currently working on a project that reflects my understanding of blockchain development  
 📜 I am also doing research to gain a deep fundamental understanding and to support my article writing  
 📈 Trading sometimes  
-🌐 Interested in distributed systems, decentralized, and crypto  
+🌐 Interested in distributed systems, decentralized, crypto, and DeFi  
 
 ### 🏗 Ongoing Projects
 
