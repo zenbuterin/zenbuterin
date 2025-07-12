@@ -12,7 +12,7 @@
 
 ### 🏗 Ongoing Projects
 
-📌 Website for merge web3 utility in one place (learning project)
+📌 Website for merge web3 utility in one place (learning project)  
 🚧 On progress: WalletGate project 
 💡 Planning for build MicroSavings project  
 💡 Planning for build a blockchain project from scratch (soon™)  
