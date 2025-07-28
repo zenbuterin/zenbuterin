@@ -12,10 +12,10 @@
 
 ### 🏗 Ongoing Projects
 
-📌 Website for merge web3 utility in one place (learning project)  
-🚧 On progress: Vaultro wallet project.    
-💡 Planning for build MicroSavings project.   
-🚧 On progress: build a blockchain project from scratch.  
+📌 Website for merge web3 utility in one place (learning project)   
+🚧 On progress: Vaultro wallet project.       
+💡 Planning for build MicroSavings project.      
+🚧 On progress: build a blockchain project from scratch.    
 
 ### 📚 Articels and Research
 
