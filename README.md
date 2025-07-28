@@ -7,15 +7,15 @@
 
 👨‍💻 I am currently working on a project that reflects my understanding of blockchain development  
 📜 I am also doing research to gain a deep fundamental understanding and to support my article writing  
-📈 Trading sometimes  
+📈 Trading    
 🌐 Interested in distributed systems, decentralized, crypto, and DeFi  
 
 ### 🏗 Ongoing Projects
 
 📌 Website for merge web3 utility in one place (learning project)  
-🚧 On progress: WalletGate project 
-💡 Planning for build MicroSavings project  
-💡 Planning for build a blockchain project from scratch (soon™)  
+🚧 On progress: Vaultro wallet project.    
+💡 Planning for build MicroSavings project.   
+🚧 On progress: build a blockchain project from scratch.  
 
 ### 📚 Articels and Research
 
