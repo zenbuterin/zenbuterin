@@ -19,7 +19,7 @@
 
 ### 📚 Articels and Research
 
-You can read my articles in  
+You can read my articels in  
 [medium/GuslizenEffayed](https://medium.com/@guslizenefayed)
 
 ### ⚒️ Tech Stack
