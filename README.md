@@ -1,14 +1,16 @@
 <div align="center">
   <h1>Halo, I'm Guslizen Effayed 👋</h1>
   <p>Blockchain & Web3 Enthusiast</p>
+  <p>Cloud and Infrastructure</p>
 </div>
 
 ### 🚀 About Me
 
-👨‍💻 I am currently working on a project that reflects my understanding of blockchain development  
+👨‍💻 I am currently working on a project that reflects my understanding of Cloud Engineering   
 📜 I am also doing research to gain a deep fundamental understanding and to support my article writing  
-📈 Crypto Trader        
+📈 Quantitative Trading         
 🌐 Interested in distributed systems, decentralized, crypto, and DeFi  
+🌐 System Adminstrator degree   
 
 ### 🏗 Ongoing Projects
 
