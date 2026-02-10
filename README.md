@@ -1,4 +1,4 @@
-# Hello, Im Zen Buterin or Gusz
+# Hello, I'm Zen Buterin or Gusz
 
 Computer Engineering & Trading.
 
