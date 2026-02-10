@@ -1,58 +1,18 @@
-<div align="center">
-  <h1>Halo, I'm Guslizen Effayed 👋</h1>
-  <p>Blockchain & Web3 Enthusiast</p>
-  <p>Cloud and Infrastructure</p>
-</div>
+# Gusz
 
-### 🚀 About Me
+Computer Engineering & Trading.
 
-👨‍💻 I am currently working on a project that reflects my understanding of Cloud Engineering   
-📜 I am also doing research to gain a deep fundamental understanding and to support my article writing  
-📈 Quantitative Trading         
-🌐 Interested in distributed systems, decentralized, crypto, and DeFi  
-🌐 System Adminstrator degree   
+This repository contains my ongoing work and experiments, mainly focused on computer engineering fundamentals, system design, and hands-on prototyping.  
+Most projects are built iteratively, starting from simulation and analysis.
 
-### 🏗 Ongoing Projects
+---
 
-📌 Website for merge web3 utility in one place (learning project)   
-🚧 On progress: Vaultro wallet project.       
-💡 Planning for build MicroSavings project.      
-🚧 On progress: build a blockchain project from scratch.    
+## Notes
 
-### 📚 Articels and Research
+Some older repositories related to blockchain, web, or software development reflect areas I explored earlier and remain part of my technical background.
 
-You can read my articels in  
-[medium/GuslizenEffayed](https://medium.com/@guslizenefayed)
+---
 
-### ⚒️ Tech Stack
+## Writing
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" width="40"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" width="40"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"  width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg"  width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40"/>
-</p>
-          
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zenbuterin&show_icons=true&theme=radical)
-
-
+- Medium: https://medium.com/@guslizenefayed
