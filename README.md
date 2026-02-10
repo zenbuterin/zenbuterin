@@ -1,4 +1,4 @@
-# Gusz
+# Hello, Im Zen Buterin or Gusz
 
 Computer Engineering & Trading.
 
