@@ -15,4 +15,4 @@ Some older repositories related to blockchain, web, or software development refl
 
 ## Writing
 
-- Medium: https://medium.com/@guslizenefayed
+- Medium: https://medium.com/@YuunQii
