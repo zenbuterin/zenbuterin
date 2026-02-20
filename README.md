@@ -1,4 +1,4 @@
-# Hello, I'm Zen Buterin or Yun Qi
+# Hello, I'm Zen Buterin or Zhang Chen
 
 Computer Engineering & Trading.
 
