@@ -1,6 +1,6 @@
 # Hello, I'm Zen Buterin or Zhang Chen
 
-Computer Engineering & Trading.
+Computer Engineering.
 
 This repository contains my ongoing work and experiments, mainly focused on computer engineering fundamentals, system design, and hands-on prototyping.  
 Most projects are built iteratively, starting from simulation and analysis.
